@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="blazor-base.csharp.default">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-cli/templates/plugins/resource/dotnet/blazor-base.csharp.default.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

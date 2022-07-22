@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="fallback">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.ts.notification-trigger-timer.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.js.notification-trigger-http.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.js.notification-function-base.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.ts.notification-trigger-http.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.js.command-and-response.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.ts.notification-restify.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.csharp.notification-webapi.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/tab.js.m365.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.ts.command-and-response.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/function-triggers.ts.HTTPTrigger.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.csharp.command-and-response.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/tab.js.non-sso.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/function-triggers.js.HTTPTrigger.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/tab.csharp.default.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/function-base.ts.default.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.js.notification-trigger-timer.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/tab.ts.m365.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.ts.notification.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.js.default.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.ts.m365.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/tab.ts.non-sso.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/tab.js.default.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.csharp.default.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/tab.ts.default.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.js.notification-restify.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.js.m365.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.ts.default.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/blazor-base.csharp.default.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/function-base.js.default.zip!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@microsoft/teamsfx-core/templates/fallback/bot.ts.notification-function-base.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
